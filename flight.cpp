@@ -71,9 +71,9 @@ public:
 int main()
 
 {
-  cout << " ..... Welcome to airport sir would you like  risirve ticket........" << endl;
-  cout << " .... This flite will go goa ......" << endl;
-  cout << " .....This flight arive 5:00 AM ...." << endl;
+  // cout << " ..... Welcome to airport sir would you like  risirve ticket........" << endl;
+  // cout << " .... This flite will go goa ......" << endl;
+  // cout << " .....This flight arive 5:00 AM ...." << endl;
   finaltickit tick;
   int ad;
   int pn;
